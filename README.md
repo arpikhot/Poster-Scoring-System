@@ -21,6 +21,7 @@ This branch automates **judge assignments to posters** based on expertise and av
 
 #### Execution:
 ```sh
+pip install -r requirements.txt
 python sendEmail.py  # Sends verification codes to judges
 python similarity.py  # Extracts judge expertise
 python assignment.py  # Assigns judges to posters
@@ -55,6 +56,7 @@ This branch processes **judges' scores** to fairly **rank research posters**.
 
 #### Execution:
 ```sh
+pip install -r requirements.txt
 python ranking.py  # Processes judge scores and ranks posters
 ```
 
