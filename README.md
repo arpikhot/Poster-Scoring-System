@@ -4,7 +4,7 @@
 This repository contains a system for **automating the evaluation and ranking of research posters** using machine learning, QR-based authentication, and a structured scoring system. It consists of three major components:
 
 1. **Part_1 - Machine Learning for Poster Assignment**
-2. **Master - QR Code-Based Scoring System (Frontend & Backend)**
+2. **Part_2 - QR Code-Based Scoring System (Frontend & Backend)**
 3. **Part_3 - Poster Ranking Based on Judge Scores**
 
 ## 📂 GitHub Branches  
